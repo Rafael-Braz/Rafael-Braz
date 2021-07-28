@@ -1,7 +1,8 @@
  <div>
   <a href="https://github.com/Rafael-Braz">
   <img aling="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=Rafael-Braz&show_icons=true&theme=radical&include_all_commits=true&count_private=true$border_radius=true"/>
-   
+ </a>
+ <a href="https://github.com/Rafael-Braz">
    <img aling="center" height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Braz&layout=compact&langs_count=7&theme=radical"/>
     </a>
 </div>
